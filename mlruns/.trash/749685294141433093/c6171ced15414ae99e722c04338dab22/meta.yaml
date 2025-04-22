@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rafaelmagnusson/Documents/projetos-estudo/mlflow-tutorial/mlruns/749685294141433093/c6171ced15414ae99e722c04338dab22/artifacts
+deleted_time: 1745282297881
+end_time: 1745282073861
+entry_point_name: ''
+experiment_id: '749685294141433093'
+lifecycle_stage: deleted
+run_id: c6171ced15414ae99e722c04338dab22
+run_name: traveling-toad-730
+run_uuid: c6171ced15414ae99e722c04338dab22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745282072075
+status: 3
+tags: []
+user_id: rafaelmagnusson

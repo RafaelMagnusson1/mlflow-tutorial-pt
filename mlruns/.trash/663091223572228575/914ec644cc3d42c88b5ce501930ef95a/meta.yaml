@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/663091223572228575/914ec644cc3d42c88b5ce501930ef95a/artifacts
+deleted_time: 1745282289680
+end_time: 1745282265424
+entry_point_name: ''
+experiment_id: '663091223572228575'
+lifecycle_stage: deleted
+run_id: 914ec644cc3d42c88b5ce501930ef95a
+run_name: inquisitive-mule-159
+run_uuid: 914ec644cc3d42c88b5ce501930ef95a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745282263323
+status: 3
+tags: []
+user_id: rafaelmagnusson

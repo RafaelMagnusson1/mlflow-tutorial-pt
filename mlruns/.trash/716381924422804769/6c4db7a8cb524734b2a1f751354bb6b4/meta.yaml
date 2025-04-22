@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rafaelmagnusson/Documents/projetos-estudo/mlflow-tutorial/mlruns/716381924422804769/6c4db7a8cb524734b2a1f751354bb6b4/artifacts
+deleted_time: 1745282286929
+end_time: 1745281879012
+entry_point_name: ''
+experiment_id: '716381924422804769'
+lifecycle_stage: deleted
+run_id: 6c4db7a8cb524734b2a1f751354bb6b4
+run_name: capricious-bug-415
+run_uuid: 6c4db7a8cb524734b2a1f751354bb6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745281876920
+status: 3
+tags: []
+user_id: rafaelmagnusson

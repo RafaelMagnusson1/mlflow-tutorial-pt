@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rafaelmagnusson/Documents/projetos-estudo/mlflow-tutorial/mlruns/716381924422804769/8f40bbed96004eb89f7e55c26a9e3e7d/artifacts
+deleted_time: 1745282286929
+end_time: 1745281829829
+entry_point_name: ''
+experiment_id: '716381924422804769'
+lifecycle_stage: deleted
+run_id: 8f40bbed96004eb89f7e55c26a9e3e7d
+run_name: omniscient-sow-284
+run_uuid: 8f40bbed96004eb89f7e55c26a9e3e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745281827703
+status: 3
+tags: []
+user_id: rafaelmagnusson

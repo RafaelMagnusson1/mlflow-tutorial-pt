@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/955144386562632705/e15ac8321ae948308edf769a26f0c0ff/artifacts
+end_time: 1745282321063
+entry_point_name: ''
+experiment_id: '955144386562632705'
+lifecycle_stage: active
+run_id: e15ac8321ae948308edf769a26f0c0ff
+run_name: delightful-stoat-272
+run_uuid: e15ac8321ae948308edf769a26f0c0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745282318938
+status: 3
+tags: []
+user_id: rafaelmagnusson
